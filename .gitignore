@@ -1,0 +1,9 @@
+/.vs/correlation-id-middleware/v14/*.suo
+/src/correlation-id-middleware/bin/Debug/netstandard1.6
+/src/correlation-id-middleware/obj/Debug/netstandard1.6
+/test/correlation-id-middleware.test/bin/Debug/netcoreapp1.1
+/test/correlation-id-middleware.test/obj/Debug/netcoreapp1.1
+/test/correlation-id-middleware.test/project.lock.json
+/src/correlation-id-middleware/project.lock.json
+/src/correlation-id-middleware/*.user
+/test/correlation-id-middleware.test/*.user
