@@ -25,12 +25,12 @@ Edit your Startup.cs ->
         Configure(){
             ...
 
-           tbd.
+           app.UseCorrelationIdMiddleware(new CorrelationIdMiddlewareOptions());
             
             ...
         }
 
-
+! Order in middleware matters. this middleware should be used very early in the pipeline.
 
 ### Options
 
