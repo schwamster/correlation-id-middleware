@@ -1,5 +1,7 @@
 # correlation-id-middleware
 
+[![CircleCI](https://circleci.com/gh/schwamster/correlation-id-middleware.svg?style=shield&circle-token)](https://circleci.com/gh/schwamster/correlation-id-middleware)
+![#](https://img.shields.io/nuget/v/correlation-id-middleware.svg)
 
 ## Getting started
 
